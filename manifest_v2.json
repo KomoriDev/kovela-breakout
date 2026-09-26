@@ -1,0 +1,80 @@
+{
+  "item": {
+    "id": "com.komoridev.breakout",
+    "restype": "quick_app",
+    "name": "打砖块",
+    "description": "面向 Xiaomi Vela 手环的打砖块游戏，玩家通过移动挡板反弹小球击碎砖块、获取道具，支持闯关和无尽模式",
+    "preview": [
+      "media/breakout-screenshout-1.png",
+      "media/breakout-screenshout-2.png",
+      "media/breakout-screenshout-3.png"
+    ],
+    "icon": "media/breakout-logo.png",
+    "cover": "media/breakout-cover.png",
+    "author": [
+      {
+        "name": "KomoriDev",
+        "bindABAccount": true
+      }
+    ]
+  },
+  "links": [],
+  "downloads": {
+    "xmb10": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.breakout.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello Astrobox"
+        }
+      ]
+    },
+    "xmb10nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.breakout.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello Astrobox"
+        }
+      ]
+    },
+    "xmb10p": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.breakout.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello Astrobox"
+        }
+      ]
+    },
+    "xmb11": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.breakout.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello Astrobox"
+        }
+      ]
+    },
+    "xmb11nfc": {
+      "version": "1.0.0",
+      "file_name": "downloads/com.komoridev.breakout.release.1.0.0.rpk",
+      "versionCode": 1,
+      "updatelogs": [
+        {
+          "version": "1.0.0",
+          "content": "- 🎉 Hello Astrobox"
+        }
+      ]
+    }
+  },
+  "ext": {}
+}
